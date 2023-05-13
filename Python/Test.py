@@ -169,3 +169,10 @@ print(top_tourist_locations_italy())
 print(most_popular1)
 print(most_popular2)
 print(most_popular3)
+
+#Review
+
+def trip_planner_welcome(name):
+  print("Welcome to tripplaner v1.0" + str(name))
+
+trip_planner_welcome("Allen")
